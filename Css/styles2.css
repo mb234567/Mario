@@ -1,0 +1,31 @@
+
+ 
+body{
+    background-image: url(../Images/Super\ mario.jpeg); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    
+} 
+
+.banner{  
+    background-image: url(../Images/green.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px; 
+    padding: 15px; 
+    object-fit: cover;
+} 
+.content{
+    width: 700px; 
+    padding: 25px; 
+
+} 
+.video1{
+    width: 300px; 
+    margin: 25px;
+
+} 
+.Picture{
+    width: 700px; 
+    height: 300px;
+}

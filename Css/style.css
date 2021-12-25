@@ -1,0 +1,37 @@
+.True { 
+    justify-content: stretch;
+    width: 700px; 
+    height: 100px;
+} 
+
+.Image{ 
+    bottom: 0; 
+    float: right; 
+    position: fixed;
+} 
+
+.Play{
+    width: 700px; 
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    background-color: darkred;
+} 
+
+.RsideB{ 
+    background-image: url(../Images/Ask-Logo-Small.jpg); 
+    background-repeat: repeat-y; 
+    width: 100px; 
+    float: right; 
+    height: 500px;
+} 
+
+.Pictures{
+    overflow: auto; 
+    width: 300px; 
+    height: 100px; 
+    margin: 15px; 
+    border-style: solid 2px; 
+    float: right;
+}
